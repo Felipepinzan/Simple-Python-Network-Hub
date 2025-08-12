@@ -1,4 +1,0 @@
-psutil
-requests
-ping3
-speedtest-cli
